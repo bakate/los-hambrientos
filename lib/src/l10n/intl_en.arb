@@ -1,0 +1,18 @@
+{
+  "appTitle": "los hambrientos",
+  "products_list": "Products List",
+  "address": "Address",
+  "@address": {
+    "description": "Title of the address page"
+  },
+  "login": "Login",
+  "register": "Register",
+  "logout": "Logout",
+  "cart": "Cart",
+  "checkout": "Checkout",
+  "favorites": "Favorites",
+  "reviewers": "Reviewers",
+  "orders": "Orders",
+  "account": "Account",
+  "appBarTitle": "los hambrientos"
+}
