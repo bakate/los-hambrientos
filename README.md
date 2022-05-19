@@ -1,3 +1,7 @@
+  <p align="center">
+     <a href="https://github.com/bakate/los-hambrientos/actions"><img src="https://github.com/bakate/los-hambrientos/workflows/test-los-hambrientos-app/badge.svg?event=push" alt="Build Status"></a>
+</p>
+
 # los_hambrientos
 
 A new Flutter project.
