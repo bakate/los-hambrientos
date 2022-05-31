@@ -14,5 +14,7 @@
   "reviewers": "Reviewers",
   "orders": "Orders",
   "account": "Account",
-  "appBarTitle": "los hambrientos"
+  "appBarTitle": "los hambrientos",
+  "notImplemented": "Not implemented yet",
+  "add_to_cart": "Add to cart"
 }

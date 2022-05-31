@@ -1,7 +1,7 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 import 'package:los_hambrientos/src/features/products/presentation/products_list/products_list_screen.dart';
-import 'package:los_hambrientos/src/features/products/product_screen.dart';
+import 'package:los_hambrientos/src/features/products/presentation/product_screen/product_screen.dart';
 
 enum AppRoute {
   home,
